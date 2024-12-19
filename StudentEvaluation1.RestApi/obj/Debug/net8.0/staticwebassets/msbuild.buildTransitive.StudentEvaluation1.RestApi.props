@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\StudentEvaluation1.RestApi.props" />
+</Project>

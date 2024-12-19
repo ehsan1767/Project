@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rBz0Rn9oCiD4RPZc8CBLG11sWAyUs0iDu0OKE1r2nfs=",
+  "Source": "StudentEvaluation1.RestApi",
+  "BasePath": "_content/StudentEvaluation1.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

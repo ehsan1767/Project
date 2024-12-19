@@ -1,0 +1,6 @@
+C:\Users\user\Source\Repos\StudentEvaluationProject\StudentEvaluation1.TestTools\obj\Debug\net8.0\1.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\StudentEvaluationProject\StudentEvaluation1.TestTools\obj\Debug\net8.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\StudentEvaluationProject\StudentEvaluation1.TestTools\obj\Debug\net8.0\1.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\StudentEvaluationProject\StudentEvaluation1.TestTools\obj\Debug\net8.0\1.AssemblyInfo.cs
+C:\Users\user\Source\Repos\StudentEvaluationProject\StudentEvaluation1.TestTools\obj\Debug\net8.0\1.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\StudentEvaluationProject\StudentEvaluation1.TestTools\obj\Debug\net8.0\1.sourcelink.json
